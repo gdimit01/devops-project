@@ -1,0 +1,36 @@
+# Vagrant related
+.vagrant/
+Vagrantfile.local
+Vagrantfile.backup
+
+# VirtualBox related
+*.vdi
+*.vbox
+*.vbox-prev
+
+# VMware related
+*.vmem
+*.vmwarevm
+*.vmstate
+*.nvram
+*.vmss
+*.vmsd
+*.vmtm
+*.vmx
+*.vmxf
+*.log
+
+# Parallels related
+*.hdd
+*.hds
+*.pvm
+*.mem
+
+# Other
+*.iso
+*.ova
+*.ovf
+
+# General backup files
+*~
+*.bak
